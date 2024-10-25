@@ -50,12 +50,6 @@ This form lets you view all batches associated with a particular username:
 - **Submit Button**: Labeled "See batches by user".
 - **Action**: Submitting this form will display a list of all batches created by the specified user.
 
-## Form Behavior
-
-Both forms on this page have some common behaviors:
-
-- **Real-time Updates**: As you type in either form, the submission URL updates dynamically to match your input.
-- **Required Fields**: You must enter a value before submitting either form. The submit button won't work if the field is empty.
 
 ## Accessibility Features
 
